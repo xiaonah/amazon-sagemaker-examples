@@ -1,4 +1,4 @@
-# Amazon SageMaker Examples
+# Amazon SageMaker Examples tests
 
 This repository contains example notebooks that show how to apply machine learning and deep learning in [Amazon SageMaker](https://aws.amazon.com/machine-learning/platforms/sagemaker).
 
